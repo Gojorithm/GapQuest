@@ -1,8 +1,0 @@
-ai
-archive
-database
-gapquest
-ingestion
-models
-preprocessing
-utils
