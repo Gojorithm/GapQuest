@@ -13,9 +13,3 @@ GapQuest/
 ├── docs/       # Documentation
 ```
 
-## Team
-
-- AI/ML — Neha
-- Backend — Ishita
-- Frontend — Kushal
-- Testing — Palak
